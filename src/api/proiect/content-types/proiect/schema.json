@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "proiects",
+  "info": {
+    "singularName": "proiect",
+    "pluralName": "proiects",
+    "displayName": "Proiect"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Titlu": {
+      "type": "string"
+    },
+    "Descriere": {
+      "type": "text"
+    },
+    "Tehnologii": {
+      "type": "string"
+    },
+    "Link": {
+      "type": "string"
+    }
+  }
+}
